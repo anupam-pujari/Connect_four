@@ -1,6 +1,6 @@
 # Connect Four Game
 
-![Connect Four](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Connect_Four.svg/800px-Connect_Four.svg.png)
+![Connect Four](https://upload.wikimedia.org/wikipedia/commons/c/c2/Connect_4_game_logo.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
